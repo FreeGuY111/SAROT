@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1150" viewBox="0 0 1600 1150" font-family="Segoe UI, Arial, sans-serif">
+<rect x="0" y="0" width="1600" height="1150" fill="#ffffff" stroke="none" stroke-width="1.5"/>
+<text x="40" y="48" font-size="30" text-anchor="start" font-weight="bold" fill="#191919">SROT starter kit: pipe assembly (1 flow sensor)</text>
+<text x="40" y="78" font-size="17" text-anchor="start" font-weight="normal" fill="#666666">Parts in order, then the finished pipe. T = wrap PTFE (teflon) tape on that thread first.</text>
+<text x="40" y="150" font-size="20" text-anchor="start" font-weight="bold" fill="#0a66c2">1. Parts in order</text>
+<rect x="50" y="160" width="30" height="130" fill="#e0ddd5" stroke="none" stroke-width="1.5"/>
+<rect x="80" y="210" width="70" height="22" fill="#9e9e9e" stroke="none" stroke-width="1.5"/>
+<rect x="126" y="192" width="34" height="16" fill="#c62828" stroke="none" stroke-width="1.5"/>
+<rect x="132" y="232" width="22" height="40" fill="#9e9e9e" stroke="none" stroke-width="1.5"/>
+<path d="M143 272 C 160 330, 230 330, 270 260" fill="none" stroke="#2e7d32" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="258" y="244" width="8" height="32" fill="#78909c" stroke="none" stroke-width="1.5"/>
+<text x="120" y="390" font-size="15" text-anchor="middle" font-weight="bold" fill="#191919">Home tap</text>
+<text x="215" y="390" font-size="15" text-anchor="middle" font-weight="bold" fill="#191919">Garden hose</text>
+<text x="215" y="409" font-size="13" text-anchor="middle" font-weight="normal" fill="#666666">+ 2 hose clips</text>
+<polygon points="320,251 334,247 334,273 320,269" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.2"/>
+<polygon points="334,251 348,247 348,273 334,269" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.2"/>
+<polygon points="348,251 362,247 362,273 348,269" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.2"/>
+<rect x="362" y="240" width="38" height="40" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<path d="M368 240 V280 M381 240 V280 M394 240 V280" fill="none" stroke="#8a6d1f" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="360" y="390" font-size="15" text-anchor="middle" font-weight="bold" fill="#191919">Hose connector</text>
+<text x="360" y="409" font-size="13" text-anchor="middle" font-weight="normal" fill="#666666">½ inch female thread</text>
+<path d="M410 260 H478" fill="none" stroke="#0a66c2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 6"/>
+<polygon points="476,253 488,260 476,267" fill="#0a66c2"/>
+<rect x="490" y="247" width="34" height="26" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<path d="M493 247 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M499 247 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M505 247 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M511 247 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M517 247 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="524" y="232" width="140" height="56" fill="#263238" stroke="none" stroke-width="1.5"/>
+<path d="M546 260 H630" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="630,251 646,260 630,269" fill="#ffffff"/>
+<rect x="664" y="247" width="34" height="26" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<path d="M667 247 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M673 247 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M679 247 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M685 247 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M691 247 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M588 232 v -38" fill="none" stroke="#d32f2f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M594 232 v -38" fill="none" stroke="#222222" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M600 232 v -38" fill="none" stroke="#e0a800" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="494" y="197" width="26" height="26" fill="#ffffff" stroke="#0a66c2" stroke-width="2"/>
+<text x="507" y="215" font-size="14" text-anchor="middle" font-weight="bold" fill="#0a66c2">T</text>
+<rect x="668" y="197" width="26" height="26" fill="#ffffff" stroke="#0a66c2" stroke-width="2"/>
+<text x="681" y="215" font-size="14" text-anchor="middle" font-weight="bold" fill="#0a66c2">T</text>
+<text x="594" y="390" font-size="15" text-anchor="middle" font-weight="bold" fill="#191919">Flow sensor YF-S201</text>
+<text x="594" y="409" font-size="13" text-anchor="middle" font-weight="normal" fill="#666666">arrow points away from the tap</text>
+<text x="594" y="180" font-size="13" text-anchor="middle" font-weight="normal" fill="#666666">3 wires to the ESP32</text>
+<path d="M700 260 H778" fill="none" stroke="#0a66c2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 6"/>
+<polygon points="776,253 788,260 776,267" fill="#0a66c2"/>
+<rect x="790" y="238" width="90" height="44" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<rect x="813" y="282" width="44" height="30" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<circle cx="796" cy="260" r="7" fill="#8a6d1f"/>
+<circle cx="874" cy="260" r="7" fill="#8a6d1f"/>
+<circle cx="835" cy="306" r="7" fill="#8a6d1f"/>
+<text x="835" y="200" font-size="15" text-anchor="middle" font-weight="bold" fill="#191919">Tee</text>
+<text x="835" y="219" font-size="13" text-anchor="middle" font-weight="normal" fill="#666666">3 female threads</text>
+<path d="M880 260 H948" fill="none" stroke="#0a66c2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 6"/>
+<polygon points="946,253 958,260 946,267" fill="#0a66c2"/>
+<rect x="960" y="249" width="26" height="22" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<path d="M963 249 l -3 22" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M969 249 l -3 22" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M975 249 l -3 22" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M981 249 l -3 22" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="986" y="243" width="22" height="34" fill="#757575" stroke="none" stroke-width="1.5"/>
+<rect x="960" y="207" width="26" height="26" fill="#ffffff" stroke="#0a66c2" stroke-width="2"/>
+<text x="973" y="225" font-size="14" text-anchor="middle" font-weight="bold" fill="#0a66c2">T</text>
+<text x="990" y="390" font-size="15" text-anchor="middle" font-weight="bold" fill="#191919">½ inch plug</text>
+<text x="990" y="409" font-size="13" text-anchor="middle" font-weight="normal" fill="#666666">closes this side</text>
+<path d="M835 320 V368" fill="none" stroke="#0a66c2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 6"/>
+<polygon points="828,370 835,358 842,370" fill="#0a66c2"/>
+<rect x="824" y="360" width="22" height="28" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<path d="M824 363 l 22 -3" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M824 369 l 22 -3" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M824 375 l 22 -3" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M824 381 l 22 -3" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="813" y="388" width="44" height="26" fill="#9e9e9e" stroke="none" stroke-width="1.5"/>
+<rect x="801" y="390" width="14" height="10" fill="#c62828" stroke="none" stroke-width="1.5"/>
+<rect x="828" y="414" width="14" height="28" fill="#9e9e9e" stroke="none" stroke-width="1.5"/>
+<rect x="867" y="361" width="26" height="26" fill="#ffffff" stroke="#0a66c2" stroke-width="2"/>
+<text x="880" y="379" font-size="14" text-anchor="middle" font-weight="bold" fill="#0a66c2">T</text>
+<text x="895" y="435" font-size="15" text-anchor="start" font-weight="bold" fill="#191919">Small tap (the "leak")</text>
+<text x="40" y="560" font-size="20" text-anchor="start" font-weight="bold" fill="#0a66c2">2. Finished pipe</text>
+<rect x="50" y="590" width="30" height="130" fill="#e0ddd5" stroke="none" stroke-width="1.5"/>
+<rect x="80" y="640" width="70" height="22" fill="#9e9e9e" stroke="none" stroke-width="1.5"/>
+<rect x="126" y="622" width="34" height="16" fill="#c62828" stroke="none" stroke-width="1.5"/>
+<rect x="132" y="662" width="22" height="40" fill="#9e9e9e" stroke="none" stroke-width="1.5"/>
+<path d="M143 702 C 160 760, 250 750, 312 690" fill="none" stroke="#2e7d32" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="296" y="674" width="8" height="32" fill="#78909c" stroke="none" stroke-width="1.5"/>
+<polygon points="320,681 334,677 334,703 320,699" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.2"/>
+<polygon points="334,681 348,677 348,703 334,699" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.2"/>
+<polygon points="348,681 362,677 362,703 348,699" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.2"/>
+<rect x="362" y="670" width="38" height="40" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<path d="M368 670 V710 M381 670 V710 M394 670 V710" fill="none" stroke="#8a6d1f" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="400" y="677" width="34" height="26" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<path d="M403 677 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M409 677 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M415 677 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M421 677 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M427 677 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="434" y="662" width="140" height="56" fill="#263238" stroke="none" stroke-width="1.5"/>
+<path d="M456 690 H540" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="540,681 556,690 540,699" fill="#ffffff"/>
+<rect x="574" y="677" width="34" height="26" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<path d="M577 677 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M583 677 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M589 677 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M595 677 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M601 677 l -3 26" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M498 662 v -38" fill="none" stroke="#d32f2f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M504 662 v -38" fill="none" stroke="#222222" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M510 662 v -38" fill="none" stroke="#e0a800" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="608" y="668" width="90" height="44" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<rect x="631" y="712" width="44" height="30" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<circle cx="614" cy="690" r="7" fill="#8a6d1f"/>
+<circle cx="692" cy="690" r="7" fill="#8a6d1f"/>
+<circle cx="653" cy="736" r="7" fill="#8a6d1f"/>
+<rect x="698" y="679" width="26" height="22" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<path d="M701 679 l -3 22" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M707 679 l -3 22" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M713 679 l -3 22" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M719 679 l -3 22" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="724" y="673" width="22" height="34" fill="#757575" stroke="none" stroke-width="1.5"/>
+<rect x="642" y="742" width="22" height="28" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<path d="M642 745 l 22 -3" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M642 751 l 22 -3" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M642 757 l 22 -3" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M642 763 l 22 -3" fill="none" stroke="#8a6d1f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="631" y="770" width="44" height="26" fill="#9e9e9e" stroke="none" stroke-width="1.5"/>
+<rect x="619" y="772" width="14" height="10" fill="#c62828" stroke="none" stroke-width="1.5"/>
+<rect x="646" y="796" width="14" height="28" fill="#9e9e9e" stroke="none" stroke-width="1.5"/>
+<path d="M653 840 q -5 9 0 14 q 5 -5 0 -14 z" fill="#4fc3f7"/>
+<path d="M653 862 q -5 9 0 14 q 5 -5 0 -14 z" fill="#4fc3f7"/>
+<path d="M653 884 q -5 9 0 14 q 5 -5 0 -14 z" fill="#4fc3f7"/>
+<path d="M578 905 L596 1020 L710 1020 L728 905 Z" fill="#d6eaf8" stroke="#5d6d7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="653" y="975" font-size="15" text-anchor="middle" font-weight="bold" fill="#191919">Bucket</text>
+<path d="M190 580 H560" stroke="#666666" stroke-width="1.5" fill="none"/>
+<text x="190" y="570" font-size="14" text-anchor="start" font-weight="normal" fill="#666666">water flow →</text>
+<text x="960" y="560" font-size="20" text-anchor="start" font-weight="bold" fill="#0a66c2">3. How to assemble</text>
+<rect x="960" y="584" width="28" height="28" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="974" y="604" font-size="15" text-anchor="middle" font-weight="bold" fill="#ffffff">1</text>
+<text x="1000" y="602" font-size="15" text-anchor="start" font-weight="normal" fill="#191919">Wrap PTFE tape 5–6 turns clockwise on every male thread:</text>
+<text x="1000" y="623" font-size="14" text-anchor="start" font-weight="normal" fill="#666666">both ends of the sensor, the small tap and the plug.</text>
+<rect x="960" y="656" width="28" height="28" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="974" y="676" font-size="15" text-anchor="middle" font-weight="bold" fill="#ffffff">2</text>
+<text x="1000" y="674" font-size="15" text-anchor="start" font-weight="normal" fill="#191919">Screw the hose connector onto the sensor inlet</text>
+<text x="1000" y="695" font-size="14" text-anchor="start" font-weight="normal" fill="#666666">(the end the arrow starts from).</text>
+<rect x="960" y="728" width="28" height="28" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="974" y="748" font-size="15" text-anchor="middle" font-weight="bold" fill="#ffffff">3</text>
+<text x="1000" y="746" font-size="15" text-anchor="start" font-weight="normal" fill="#191919">Screw the tee onto the sensor outlet.</text>
+<text x="1000" y="767" font-size="14" text-anchor="start" font-weight="normal" fill="#666666">Hand-tight plus a quarter turn. Do not over-tighten plastic.</text>
+<rect x="960" y="800" width="28" height="28" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="974" y="820" font-size="15" text-anchor="middle" font-weight="bold" fill="#ffffff">4</text>
+<text x="1000" y="818" font-size="15" text-anchor="start" font-weight="normal" fill="#191919">Screw the small tap into the bottom of the tee</text>
+<text x="1000" y="839" font-size="14" text-anchor="start" font-weight="normal" fill="#666666">and the plug into the side.</text>
+<rect x="960" y="872" width="28" height="28" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="974" y="892" font-size="15" text-anchor="middle" font-weight="bold" fill="#ffffff">5</text>
+<text x="1000" y="890" font-size="15" text-anchor="start" font-weight="normal" fill="#191919">Push the hose onto the hose connector and tighten a clip.</text>
+<text x="1000" y="911" font-size="14" text-anchor="start" font-weight="normal" fill="#666666">Other end on the home tap, also with a clip.</text>
+<rect x="960" y="944" width="28" height="28" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="974" y="964" font-size="15" text-anchor="middle" font-weight="bold" fill="#ffffff">6</text>
+<text x="1000" y="962" font-size="15" text-anchor="start" font-weight="normal" fill="#191919">Put the bucket under the small tap. Turn the home tap on slowly</text>
+<text x="1000" y="983" font-size="14" text-anchor="start" font-weight="normal" fill="#666666">and check every joint for drips. Re-tape any that leak.</text>
+</svg>

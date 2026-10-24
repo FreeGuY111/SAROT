@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1120" viewBox="0 0 1600 1120" font-family="Segoe UI, Arial, sans-serif">
+<rect x="0" y="0" width="1600" height="1120" fill="#ffffff" stroke="none" stroke-width="1.5"/>
+<text x="40" y="48" font-size="30" text-anchor="start" font-weight="bold" fill="#191919">SROT starter kit: how to set it up</text>
+<text x="40" y="78" font-size="17" text-anchor="start" font-weight="normal" fill="#666666">One flow sensor. A leak shows up as water that never stops flowing.</text>
+<rect x="0" y="110" width="70" height="820" fill="#e0ddd5" stroke="none" stroke-width="1.5"/>
+<text x="35" y="920" font-size="14" text-anchor="middle" font-weight="normal" fill="#666666">wall</text>
+<rect x="70" y="232" width="70" height="26" fill="#9e9e9e" stroke="none" stroke-width="1.5"/>
+<rect x="120" y="214" width="40" height="18" fill="#c62828" stroke="none" stroke-width="1.5"/>
+<rect x="126" y="258" width="26" height="50" fill="#9e9e9e" stroke="none" stroke-width="1.5"/>
+<text x="150" y="200" font-size="17" text-anchor="middle" font-weight="bold" fill="#191919">Home tap</text>
+<rect x="195" y="230" width="30" height="30" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="210" y="251" font-size="16" text-anchor="middle" font-weight="bold" fill="#ffffff">1</text>
+<path d="M139 300 C 139 470, 260 560, 400 560" fill="none" stroke="#2e7d32" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="205" y="455" font-size="15" text-anchor="start" font-weight="bold" fill="#2e7d32">garden hose</text>
+<rect x="396" y="545" width="26" height="30" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<rect x="422" y="532" width="190" height="56" fill="#263238" stroke="none" stroke-width="1.5"/>
+<path d="M450 560 H580" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="580,550 598,560 580,570" fill="#ffffff"/>
+<text x="517" y="620" font-size="16" text-anchor="middle" font-weight="bold" fill="#191919">Flow sensor (YF-S201)</text>
+<text x="517" y="642" font-size="14" text-anchor="middle" font-weight="normal" fill="#666666">arrow points away from the tap</text>
+<rect x="430" y="490" width="30" height="30" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="445" y="511" font-size="16" text-anchor="middle" font-weight="bold" fill="#ffffff">2</text>
+<rect x="612" y="545" width="26" height="30" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<rect x="638" y="538" width="74" height="44" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<rect x="712" y="548" width="22" height="24" fill="#757575" stroke="none" stroke-width="1.5"/>
+<text x="760" y="556" font-size="15" text-anchor="start" font-weight="bold" fill="#191919">½ inch plug</text>
+<text x="760" y="576" font-size="14" text-anchor="start" font-weight="normal" fill="#666666">(closes this side)</text>
+<rect x="660" y="582" width="30" height="40" fill="#c9a227" stroke="#8a6d1f" stroke-width="1.5"/>
+<rect x="652" y="622" width="46" height="22" fill="#9e9e9e" stroke="none" stroke-width="1.5"/>
+<rect x="640" y="612" width="22" height="10" fill="#c62828" stroke="none" stroke-width="1.5"/>
+<rect x="667" y="644" width="16" height="30" fill="#9e9e9e" stroke="none" stroke-width="1.5"/>
+<text x="675" y="520" font-size="15" text-anchor="middle" font-weight="bold" fill="#191919">Tee</text>
+<rect x="660" y="473" width="30" height="30" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="675" y="494" font-size="16" text-anchor="middle" font-weight="bold" fill="#ffffff">3</text>
+<text x="560" y="700" font-size="15" text-anchor="end" font-weight="bold" fill="#191919">Small tap = the "leak"</text>
+<path d="M675 690 q -5 9 0 14 q 5 -5 0 -14 z" fill="#4fc3f7"/>
+<path d="M675 716 q -5 9 0 14 q 5 -5 0 -14 z" fill="#4fc3f7"/>
+<path d="M675 742 q -5 9 0 14 q 5 -5 0 -14 z" fill="#4fc3f7"/>
+<path d="M675 768 q -5 9 0 14 q 5 -5 0 -14 z" fill="#4fc3f7"/>
+<path d="M590 790 L610 930 L740 930 L760 790 Z" fill="#d6eaf8" stroke="#5d6d7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="675" y="870" font-size="16" text-anchor="middle" font-weight="bold" fill="#191919">Bucket</text>
+<rect x="70" y="930" width="1530" height="6" fill="#bdbdbd" stroke="none" stroke-width="1.5"/>
+<rect x="440" y="318" width="520" height="12" fill="#8d6e63" stroke="none" stroke-width="1.5"/>
+<text x="700" y="350" font-size="14" text-anchor="middle" font-weight="normal" fill="#666666">shelf or table, above the pipe</text>
+<rect x="470" y="150" width="460" height="168" fill="#f4f2ee" stroke="#757575" stroke-width="2"/>
+<text x="700" y="140" font-size="16" text-anchor="middle" font-weight="bold" fill="#191919">Plastic box: keeps the electronics dry</text>
+<rect x="495" y="200" width="150" height="90" fill="#f5f5f0" stroke="#bdbdbd" stroke-width="1.5"/>
+<rect x="505" y="212" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="505" y="230" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="505" y="248" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="505" y="266" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="522" y="212" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="522" y="230" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="522" y="248" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="522" y="266" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="539" y="212" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="539" y="230" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="539" y="248" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="539" y="266" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="556" y="212" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="556" y="230" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="556" y="248" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="556" y="266" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="573" y="212" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="573" y="230" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="573" y="248" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="573" y="266" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="590" y="212" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="590" y="230" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="590" y="248" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="590" y="266" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="607" y="212" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="607" y="230" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="607" y="248" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="607" y="266" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="624" y="212" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="624" y="230" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="624" y="248" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<rect x="624" y="266" width="5" height="5" fill="#bdbdbd" stroke="none" stroke-width="0"/>
+<text x="570" y="192" font-size="13" text-anchor="middle" font-weight="normal" fill="#666666">breadboard</text>
+<rect x="665" y="205" width="130" height="70" fill="#1f3b57" stroke="none" stroke-width="1.5"/>
+<text x="730" y="245" font-size="16" text-anchor="middle" font-weight="bold" fill="#ffffff">ESP32</text>
+<rect x="815" y="205" width="95" height="70" fill="#37474f" stroke="none" stroke-width="1.5"/>
+<text x="862" y="238" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff">Power</text>
+<text x="862" y="255" font-size="13" text-anchor="middle" font-weight="bold" fill="#ffffff">bank</text>
+<path d="M795 250 H815" fill="none" stroke="#9e9e9e" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="925" y="160" width="30" height="30" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="940" y="181" font-size="16" text-anchor="middle" font-weight="bold" fill="#ffffff">4</text>
+<rect x="925" y="225" width="30" height="30" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="940" y="246" font-size="16" text-anchor="middle" font-weight="bold" fill="#ffffff">5</text>
+<path d="M504 532 C 504 450, 554 380, 554 290" fill="none" stroke="#d32f2f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M510 532 C 510 450, 560 380, 560 290" fill="none" stroke="#222222" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M516 532 C 516 450, 566 380, 566 290" fill="none" stroke="#e0a800" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="470" y="440" font-size="14" text-anchor="end" font-weight="bold" fill="#191919">3 sensor wires</text>
+<text x="470" y="458" font-size="13" text-anchor="end" font-weight="normal" fill="#666666">(red, black, yellow)</text>
+<rect x="1080" y="200" width="130" height="46" fill="#455a64" stroke="none" stroke-width="1.5"/>
+<text x="1145" y="229" font-size="14" text-anchor="middle" font-weight="bold" fill="#ffffff">Wi-Fi router</text>
+<path d="M1125 192.0 Q 1145 156 1165 192.0" fill="none" stroke="#0a66c2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1111 189.2 Q 1145 142 1179 189.2" fill="none" stroke="#0a66c2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1097 186.4 Q 1145 128 1193 186.4" fill="none" stroke="#0a66c2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M930 230 H1078" fill="none" stroke="#0a66c2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 8"/>
+<path d="M1210 230 C 1290 230, 1320 300, 1320 360" fill="none" stroke="#0a66c2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 8"/>
+<text x="1005" y="222" font-size="14" text-anchor="middle" font-weight="bold" fill="#0a66c2">Wi-Fi</text>
+<text x="1145" y="280" font-size="14" text-anchor="middle" font-weight="normal" fill="#666666">Same 2.4 GHz Wi-Fi for</text>
+<text x="1145" y="298" font-size="14" text-anchor="middle" font-weight="normal" fill="#666666">the monitor and the phone</text>
+<rect x="1225" y="160" width="30" height="30" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="1240" y="181" font-size="16" text-anchor="middle" font-weight="bold" fill="#ffffff">6</text>
+<rect x="1230" y="370" width="220" height="440" fill="#191919" stroke="none" stroke-width="1.5"/>
+<rect x="1242" y="392" width="196" height="396" fill="#f4f2ee" stroke="none" stroke-width="1.5"/>
+<rect x="1242" y="392" width="196" height="44" fill="#ffffff" stroke="none" stroke-width="1.5"/>
+<text x="1256" y="421" font-size="18" text-anchor="start" font-weight="bold" fill="#0a66c2">SROT</text>
+<rect x="1250" y="446" width="180" height="58" fill="#ffffff" stroke="#e0dfdc" stroke-width="1.5"/>
+<rect x="1250" y="446" width="4" height="58" fill="#915907" stroke="none" stroke-width="0"/>
+<text x="1262" y="466" font-size="13" text-anchor="start" font-weight="bold" fill="#191919">Water running nonstop</text>
+<text x="1262" y="484" font-size="12" text-anchor="start" font-weight="normal" fill="#666666">My test pipe</text>
+<text x="1262" y="499" font-size="12" text-anchor="start" font-weight="normal" fill="#666666">Check taps and pipes.</text>
+<rect x="1250" y="516" width="180" height="150" fill="#ffffff" stroke="#e0dfdc" stroke-width="1.5"/>
+<text x="1262" y="540" font-size="14" text-anchor="start" font-weight="bold" fill="#191919">My test pipe</text>
+<text x="1262" y="557" font-size="11" text-anchor="start" font-weight="normal" fill="#666666">Main pipe monitor</text>
+<rect x="1262" y="568" width="8" height="8" fill="#915907" stroke="none" stroke-width="0"/>
+<text x="1276" y="577" font-size="11" text-anchor="start" font-weight="bold" fill="#915907">Water running nonstop</text>
+<text x="1262" y="604" font-size="11" text-anchor="start" font-weight="normal" fill="#666666">Flow in</text>
+<text x="1262" y="626" font-size="17" text-anchor="start" font-weight="bold" fill="#191919">2.1 L/min</text>
+<text x="1340" y="835" font-size="15" text-anchor="middle" font-weight="bold" fill="#191919">Phone with the SROT app</text>
+<text x="40" y="965" font-size="20" text-anchor="start" font-weight="bold" fill="#191919">Setup</text>
+<rect x="40" y="976" width="30" height="30" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="55" y="997" font-size="16" text-anchor="middle" font-weight="bold" fill="#ffffff">1</text>
+<text x="82" y="997" font-size="15" text-anchor="start" font-weight="normal" fill="#191919">Connect the garden hose to the home tap with a hose clip.</text>
+<rect x="40" y="1010" width="30" height="30" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="55" y="1031" font-size="16" text-anchor="middle" font-weight="bold" fill="#ffffff">2</text>
+<text x="82" y="1031" font-size="15" text-anchor="start" font-weight="normal" fill="#191919">Flow sensor: hose connector on the inlet, arrow pointing away from the tap. PTFE tape on threads.</text>
+<rect x="40" y="1044" width="30" height="30" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="55" y="1065" font-size="16" text-anchor="middle" font-weight="bold" fill="#ffffff">3</text>
+<text x="82" y="1065" font-size="15" text-anchor="start" font-weight="normal" fill="#191919">Screw the tee onto the sensor outlet. Small tap points down into the bucket, plug closes the other side.</text>
+<rect x="830" y="976" width="30" height="30" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="845" y="997" font-size="16" text-anchor="middle" font-weight="bold" fill="#ffffff">4</text>
+<text x="872" y="997" font-size="15" text-anchor="start" font-weight="normal" fill="#191919">Electronics in a plastic box on a shelf, above the pipe and away from splashes.</text>
+<rect x="830" y="1010" width="30" height="30" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="845" y="1031" font-size="16" text-anchor="middle" font-weight="bold" fill="#ffffff">5</text>
+<text x="872" y="1031" font-size="15" text-anchor="start" font-weight="normal" fill="#191919">Power bank plugged into the ESP32 (plug it in last, after checking the wiring).</text>
+<rect x="830" y="1044" width="30" height="30" fill="#0a66c2" stroke="none" stroke-width="1.5"/>
+<text x="845" y="1065" font-size="16" text-anchor="middle" font-weight="bold" fill="#ffffff">6</text>
+<text x="872" y="1065" font-size="15" text-anchor="start" font-weight="normal" fill="#191919">Phone and monitor on the same 2.4 GHz Wi-Fi. Set up with Add → Set up new monitor.</text>
+<rect x="1000" y="560" width="200" height="300" fill="#ebf4fd" stroke="none" stroke-width="1.5"/>
+<text x="1100" y="590" font-size="17" text-anchor="middle" font-weight="bold" fill="#0a66c2">How to test</text>
+<text x="1015" y="620" font-size="14" text-anchor="start" font-weight="normal" fill="#191919">1. Home tap open,</text>
+<text x="1015" y="642" font-size="14" text-anchor="start" font-weight="normal" fill="#191919">   small tap closed:</text>
+<text x="1015" y="664" font-size="14" text-anchor="start" font-weight="normal" fill="#191919">   flow 0. Normal.</text>
+<text x="1015" y="686" font-size="14" text-anchor="start" font-weight="normal" fill="#191919">2. Open the small tap</text>
+<text x="1015" y="708" font-size="14" text-anchor="start" font-weight="normal" fill="#191919">   a little and leave it.</text>
+<text x="1015" y="730" font-size="14" text-anchor="start" font-weight="normal" fill="#191919">3. After the set time:</text>
+<text x="1015" y="752" font-size="14" text-anchor="start" font-weight="normal" fill="#191919">   Water running</text>
+<text x="1015" y="774" font-size="14" text-anchor="start" font-weight="normal" fill="#191919">   nonstop alert.</text>
+<text x="1015" y="796" font-size="14" text-anchor="start" font-weight="bold" fill="#0a66c2">Settings → set 1 min</text>
+<text x="1015" y="818" font-size="14" text-anchor="start" font-weight="bold" fill="#0a66c2">for a quick test.</text>
+</svg>
